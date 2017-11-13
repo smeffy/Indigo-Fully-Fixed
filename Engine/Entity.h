@@ -27,6 +27,7 @@ namespace Engine
 		int		GetHealth();
 		int		GetArmor();
 		int		GetTeam();
+		float	GetSimTime();
 		int		GetShotsFired();
 		int		GetIsScoped();
 		int		GetTickBase();

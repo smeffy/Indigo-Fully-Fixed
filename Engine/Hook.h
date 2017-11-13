@@ -10,3 +10,9 @@ namespace Engine
 		void Shutdown();
 	}
 }
+
+
+struct backtrackData {
+	float simtime;
+	Vector hitboxPos;
+};
