@@ -1,6 +1,6 @@
 **FIXED BY SMEF.PW AND TROLL FACE**
-**CURRENT VERSION 5th FIX**
-# INDIGO 3.0.1
+**CURRENT VERSION 6th FIX**
+# INDIGO 3.1
 First Fix *OUTDATED*
 (https://www.unknowncheats.me/forum/downloads.php?do=file&id=21687)
 ---------------------------------------------------------------------
@@ -43,9 +43,10 @@ Made Awp Aim work with scout too
 ---------------------------------------------------------------------
 
 6th Fix
-(Coming Soon)
+(Not on UC)
 ---------------------------------------------------------------------
-Might be adding backtrack depends if i can be bothered, also might add grenade helper <<<< Important dont nag me to add it or ask me "haz backtrek ben add yet" if you really want it add
-it yourself, dont ask me for help pasting is about learning
+Backtracking added
+Ticks = 5
+Always on
 ---------------------------------------------------------------------
 smef.pw and Troll Face; https://discord.gg/cK8CHXB
